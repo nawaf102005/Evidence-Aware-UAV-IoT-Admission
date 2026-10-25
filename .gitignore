@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+results/*
+!results/.gitkeep
+validation/*
+!validation/.gitkeep
+*.png
+*.pdf
+*.csv
+*.npz
+*.pkl
+*.log
+.DS_Store

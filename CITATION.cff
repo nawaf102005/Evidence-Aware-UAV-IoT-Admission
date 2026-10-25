@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "Please cite the associated paper and the repository release once published."
+title: "Evidence-Aware Admission of Advance Service Commitments in UAV-Enabled IoT Networks Under Packet-Loss Uncertainty"
+authors:
+  - family-names: "Othman"
+    given-names: "Nawaf Q."
+type: software
